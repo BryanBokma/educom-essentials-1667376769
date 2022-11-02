@@ -1,0 +1,3 @@
+Code editor installeren
+Plugins installeren 
+Diagram editor installeren 
